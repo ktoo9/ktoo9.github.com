@@ -1,0 +1,30 @@
+body {
+  background-color:#AAAAAA;
+}
+
+a {
+  color:#019AD2;
+  text-decoration:none;
+}
+
+div#body {
+position:absolute;
+width:500px;
+height:100px;
+left:50%;
+top:50%;
+margin-left:-250px;
+margin-top:-100px;
+
+text-align:center;
+}
+
+h1 {
+  font-size:36px;
+}
+
+h2 {
+  font-size:20px;
+}
+
+
